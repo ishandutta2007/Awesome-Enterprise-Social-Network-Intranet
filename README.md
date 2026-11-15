@@ -65,7 +65,7 @@ The market structure is **moderately fragmented**:
 
 *Sorted in descending order by GitHub stargazer count.*
 
-| Project 🚀 | Star Badge ⭐ | Tech Stack 🛠️ | Description 💡 |
+| Project 🚀 | Stars_Badge ⭐ | Tech Stack 🛠️ | Description 💡 |
 |:---|:---:|:---:|:---|
 | **[Discourse](https://github.com/discourse/discourse)** | [![Stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers) | Ruby / Ember.js / PostgreSQL | **Customizable, modern community and discussion platform powering 22,000+ organizations.** Features asynchronous topics, real-time chat, AI summaries, multilingual translation, SSO, and rich role permissions for internal knowledge bases and corporate communities. |
 | **[HumHub](https://github.com/humhub/humhub)** | [![Stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers) | PHP (Yii2) / MariaDB | **The flagship open-source enterprise social network.** Features a flexible AGPLv3 Community Edition with a Facebook-style stream, user spaces, document management, wiki, calendar, and a rich ecosystem of modular add-ons. |
@@ -97,7 +97,7 @@ Contributions make the open-source and software ecosystem thrive! To propose a n
    ```
 3. ✏️ **Make your changes** in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Enterprise-Social-Network-Intranet/README.md) following the existing tabular schema.
    - For SaaS products: Provide official transparent pricing and specific free trial/plan limits.
-   - For open-source tools: Ensure the repo is active and include the social star badge linking to `/stargazers`.
+   - For open-source tools: Ensure the repo is active and include the social Stars_Badge linking to `/stargazers`.
 4. 💾 **Commit your changes**:
    ```bash
    git commit -m "Add [Tool Name]: 1-sentence summary"
