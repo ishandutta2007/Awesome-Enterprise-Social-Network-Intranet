@@ -1,75 +1,131 @@
-# Awesome-Enterprise-Social-Network-Intranet
+# 🌐 Awesome Enterprise Social Network & Intranet
 
-## Top Enterprise Social Network & Intranet Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Enterprise Social Network and Intranet Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on Employee Communities, Internal Communications & Self-Hosted Social Intranets*  
-**Last updated: March 2026**
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Enterprise Social Network & Intranet**. These tools help organizations connect employees, share news, and build internal communities—covering everything from polished SaaS intranets with AI-powered personalization to open-source social networking engines that give you full data ownership.
-
-**Examples** include Zoho Connect, Microsoft Viva Engage (Yammer), Simpplr, LumApps, Staffbase, HumHub, eXo Platform, and Elgg (the category leaders).
-
-**Open-source emphasis**: This section highlights every major active project for self-hosted social intranets, open-source enterprise social networks, and community-driven collaboration platforms—ideal for organizations seeking data sovereignty and avoiding per-user SaaS pricing that compounds across headcount. The open-source landscape is genuinely functional: **HumHub** is the leading enterprise social network with a free AGPLv3 Community Edition and a thriving module marketplace [citation:2][citation:7], **eXo Platform** provides a comprehensive digital workplace with sovereign European hosting [citation:13], and **Elgg** offers a flexible social networking engine with 1000+ plugins [citation:12].
-
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [Sector Overview & Market Dynaiics](#sector-overview--market-dynaiics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynaiics
-
-The Enterprise Social Software and Social Intranet market is estimated at approximately **$25B–$30B** (projected to exceed $70B–$100B by the early 2030s at a ~17% CAGR). The sector is **moderately fragmented**: while hyperscale platform ecosystems (notably Microsoft 365) command extensive baseline enterprise penetration, it is not a pure "winner-take-all" market as high enterprise demand for specialized frontline communications, out-of-the-box employee experience (EX), data sovereignty (GDPR/EU on-premise), and modular custom workflows sustains strong market share for best-of-breed SaaS players and self-hosted open-source platforms.
-
-## SaaS/Hosted Platforms
-
-| Product | Company Valuation / Revenue | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-----------------------------|-------------|-------------------|--------------------------|
-| **[Microsoft Viva Engage (Yammer)](https://www.microsoft.com/en-us/microsoft-viva/engage)** | ~$3.8T Market Cap ($280B+ Annual Revenue) | Enterprise social network integrated into Microsoft 365 with communities, leadership broadcasts, and feeds. | $2.00/user/month (standalone Employee Communications and Communities plan) or bundled in Microsoft 365 plans ($6.00/user/month for M365 Business Basic) | **30-day free trial** for up to 25 users (via M365 Admin Center / CSP); no permanent standalone free tier |
-| **[Zoho Connect](https://www.zoho.com/connect/)** | ~$12B–$12.5B Valuation (~$1.5B Annual Revenue) | Private social network for teams within the Zoho ecosystem. Combines feeds, groups, events, and knowledge sharing. | Free plan ($0); paid tiers start at $1.00/user/month (or Starter package ~$10/month for up to 25 users) | **Free forever plan**: up to 5 users, 3 groups, 3 custom apps, 3 boards, and 10 integrations |
-| **[Staffbase](https://staffbase.com/)** | $1.1B Valuation (~$190M+ ARR) | Employee communications platform with mobile app, intranet, and frontline worker tools. | $8.00/user/month (starting estimate for core modules; annual billing with custom enterprise scoping) | **No self-service free trial or free tier**; guided sandbox evaluation via Demo Hub app and sales-arranged pilot |
-| **[LumApps](https://www.lumapps.com/)** | >$1.0B Valuation (~$150M ARR post-Beekeeper merger) | Digital workplace platform connecting employees to tools, news, and communities across enterprise teams. | £32.00/user/year (~$3.40/user/month equivalent via G-Cloud base intranet licence; enterprise custom quote) | **No self-service free trial or free tier**; custom guided PoC / sandbox demo available via sales consultation |
-| **[Simpplr](https://www.simpplr.com/)** | ~$500M+ Implied Valuation (~$50M–$90M ARR) | AI-powered employee experience platform focused on intranet and internal communications. | £4.00/user/month (~$5.20/user/month equivalent via public sector G-Cloud disclosures; enterprise custom quote) | **14-day trial** available upon request via sales/solution team; custom proof-of-concept for enterprise pilots |
-| **[Interact Intranet](https://www.interactsoftware.com/)** | ~$100M–$200M Implied Valuation (~$30M–$45M ARR) | AI-powered intranet software for internal communications, employee engagement, and knowledge management. | £7.00/user/month (~$9.10/user/month equivalent via G-Cloud framework; minimum 12-month contract) | **No standard self-service free trial or free tier**; scoped sandbox evaluation/pilot arranged following sales demo |
-| **[Jostle](https://www.jostle.me/)** | ~$30M–$50M Implied Valuation (~$6M–$10M ARR) | People-first intranet focused on employee engagement, culture, recognition, and company news. | $2.77/user/month (Bronze plan, annual billing; minimum user tier applies) | **30-day free trial** with full Platinum enterprise features for up to 15 users; no permanent free tier |
-
-## Open-Source GitHub Projects
-
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[Discourse](https://github.com/discourse/discourse)** | [![Stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers) | **Customizable, scalable community platform powering 22,000+ communities.** Open-source since day one. Combines long-form discussions with real-time chat, multilingual translations, AI integrations, and advanced moderation—well-suited for enterprise knowledge sharing, employee communities, and internal Q&A. |
-| **[HumHub](https://github.com/humhub/humhub)** | [![Stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers) | **The leading open-source enterprise social network.** Free AGPLv3 Community Edition built on PHP/Yii2. Intuitive Facebook-style interface for spaces, posts, internal feeds, files, and user profiles, extensible via countless marketplace modules. |
-| **[Elgg](https://github.com/Elgg/Elgg)** | [![Stars](https://img.shields.io/github/stars/Elgg/Elgg?style=social&color=white)](https://github.com/Elgg/Elgg/stargazers) | **Award-winning open-source social networking engine.** Provides a flexible framework for building custom internal collaborative platforms, employee networks, and social intranets with 1000+ community plugins, granular access control, and robust APIs. |
-| **[Open Source Social Network (OSSN)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)** | [![Stars](https://img.shields.io/github/stars/opensource-socialnetwork/opensource-socialnetwork?style=social&color=white)](https://github.com/opensource-socialnetwork/opensource-socialnetwork/stargazers) | **Rapid, customizable PHP-based social networking software.** Easy to deploy for private team spaces, employee feeds, groups, real-time messaging, and member networking under complete self-hosted control. |
-| **[Twake Workplace](https://github.com/linagora/twake-workplace)** | [![Stars](https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white)](https://github.com/linagora/twake-workplace/stargazers) | **Open-source collaborative digital workplace and social intranet platform.** Provides internal team messaging, document workspaces, video conferencing, calendar sharing, and community feeds designed for enterprise sovereign hosting. |
-| **[eXo Platform](https://github.com/exoplatform/platform)** | [![Stars](https://img.shields.io/github/stars/exoplatform/platform?style=social&color=white)](https://github.com/exoplatform/platform/stargazers) | **Open-source digital workplace and sovereign alternative to Microsoft 365.** Features document management, unified search, Matrix-powered chat, and forum-style activity feeds with on-premise and sovereign cloud deployment options. |
-| **[Simoona](https://github.com/VismaLietuva/simoona)** | [![Stars](https://img.shields.io/github/stars/VismaLietuva/simoona?style=social&color=white)](https://github.com/VismaLietuva/simoona/stargazers) | **Open-source social intranet built on C# / .NET.** Designed for corporate internal communication, employee empowerment, peer recognition, and social interactions within enterprise environments. |
-| **[Uintra](https://github.com/Uintra/Uintra)** | [![Stars](https://img.shields.io/github/stars/Uintra/Uintra?style=social&color=white)](https://github.com/Uintra/Uintra/stargazers) | **Intranet and social employee platform framework for Umbraco CMS.** Built on .NET/Umbraco, providing modular social feeds, events, bulleted communication channels, and employee profile directories. |
-| **[Open Intranet](https://github.com/droptica/openintranet)** | [![Stars](https://img.shields.io/github/stars/droptica/openintranet?style=social&color=white)](https://github.com/droptica/openintranet/stargazers) | **Workplace hub and social intranet built on Drupal.** Features employee directories, document management, kudos/peer recognition, knowledge base books, and social commenting without per-user licensing fees. |
-| **[Favilla](https://github.com/Myth70/favilla)** | [![Stars](https://img.shields.io/github/stars/Myth70/favilla?style=social&color=white)](https://github.com/Myth70/favilla/stargazers) | **Self-hosted workspace and company intranet with 20 modules.** Lightweight PHP 8.2+ micro-framework with MariaDB and Bootstrap+HTMX. Features one-command Docker install, OIDC SSO, projects, teams, documents, and blog feeds. |
-
-**Frameworks for building custom systems**: Choose **HumHub** for a proven social intranet with a free Community Edition and module marketplace [citation:2], **eXo Platform** for a comprehensive sovereign digital workplace with document management and chat [citation:13], or **Favilla** for a lightweight self-hosted intranet with OIDC SSO and Docker deployment [citation:6] —all without per-user SaaS fees that compound across headcount.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Enterprise social networks and intranets handle employee communications and potentially sensitive internal discussions; enforce access controls, moderation policies, and compliance with applicable data protection regulations.
-- **Open-source social intranets have different maturity levels and licensing nuances.** **HumHub's Community Edition is AGPLv3**—free forever and self-hosted, but **LDAP and SAML SSO require the paid Professional edition** (from €144/month) [citation:2][citation:9]. **eXo Platform's Community Edition is open-source**, while Enterprise Edition adds sovereign hosting and support—the company positions itself as a European alternative to Microsoft 365 with clients including the US Department of Defense [citation:13]. **Elgg is a framework, not a turnkey intranet**—it provides the engine and 1000+ plugins, but requires development to assemble a working social network [citation:12]. **Favilla offers a middle ground**—self-hosted with OIDC SSO and Docker deployment, but it is newer and smaller than HumHub or eXo [citation:6]. **Validate whether you need a turnkey intranet (HumHub, eXo) or a flexible framework (Elgg)** based on your engineering capacity and timeline.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet?style=flat-square&logo=github" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet?style=flat-square&logo=github" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Enterprise-Social-Network-Intranet?style=flat-square" alt="Pull Requests" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-**Made for internal communications teams, IT administrators, and organizations building employee communities.**  
-Let's make enterprise social networks and intranets more open, connected, and employee-centric.
+## 🧭 Curated Directory of Enterprise Social Networks, Intranets & Employee Communication Platforms
+
+> A curated list of **Enterprise Social Network (ESN)** solutions, **modern intranet software**, **digital workplaces**, and **employee communication platforms**. Covering category-leading SaaS platforms with transparent pricing alongside self-hosted, open-source projects for complete data sovereignty.
+
+Whether you are seeking a turnkey cloud-based employee experience (EX) platform with AI copilot summaries or a self-hosted, private open-source social network that complies with strict data residency regulations, this repository indexes the most active, battle-tested solutions.
+
+---
+
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynaiics](#-sector-overview--market-dynaiics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynaiics
+
+The global **Enterprise Social Software (ESS)** and **Social Intranet** market is currently estimated at **$25B–$30B** in annual spend and is forecast to expand past **$70B–$100B by the early 2030s** at an estimated CAGR of ~17%–19%.
+
+The market structure is **moderately fragmented**:
+- **Platform Giants:** Ecosystem giants (especially Microsoft 365 with Viva Engage, SharePoint, and Teams) provide ubiquitous baseline coverage across large corporate enterprises.
+- **Best-of-Breed Innovators:** Rather than becoming a pure "winner-take-all" market, high corporate demand for specialized frontline mobile experiences, AI personalization, non-desk worker engagement, and friction-free culture drives substantial adoption for independent SaaS category leaders (such as Staffbase, LumApps, Simpplr, and Jostle).
+- **Data Sovereignty & Self-Hosted Needs:** Strict regulatory requirements (GDPR, HIPAA, and national data sovereignty mandates in Europe and government sectors) sustain healthy demand for self-hosted, open-source intranets like HumHub, eXo Platform, and Discourse.
+
+---
+
+## 🏢 SaaS / Hosted Platforms
+
+| Product 🏷️ | Company Valuation / Revenue 💰 | Description 📝 | Pricing (Starting Tier) 💳 | Free Tier / Trial Limits ⏱️ |
+|:---|:---|:---|:---|:---|
+| **[Microsoft Viva Engage (Yammer)](https://www.microsoft.com/en-us/microsoft-viva/engage)** | ~$3.8T Market Cap ($280B+ Annual Revenue) | Enterprise social network tightly integrated into Microsoft 365 with communities, storyline feeds, leadership corners, and town hall broadcasting. | **$2.00 /user/month** (standalone Employee Communications and Communities plan) or bundled in M365 suites ($6.00 /user/month for Microsoft 365 Business Basic). | **30-day free trial** for up to 25 users (managed through M365 Admin Center / CSP); no permanent standalone free tier. |
+| **[Zoho Connect](https://www.zoho.com/connect/)** | ~$12B–$12.5B Valuation (~$1.5B Annual Revenue) | Unified team social network and collaboration hub with group feeds, knowledge base manuals, internal forums, and custom apps within the Zoho suite. | **Free plan ($0)**; paid tiers start at **$1.00 /user/month** (Enterprise) or flat Starter package at ~$10/month for up to 25 users. | **Free forever plan**: up to 5 users, 3 groups, 3 custom apps, 3 boards, 3 manuals, and 10 integrations. |
+| **[Staffbase](https://staffbase.com/)** | $1.1B Valuation (~$190M+ ARR) | Mobile-first employee communications platform with multi-channel intranet, employee news apps, email newsletters, and frontline deskless worker tools. | **$8.00 /user/month** (starting industry estimate for base intranet modules; annual contract with custom enterprise scoping). | **No self-service free trial or permanent free tier**; guided live sandbox evaluation via mobile Demo Hub app and sales-arranged pilot. |
+| **[LumApps](https://www.lumapps.com/)** | >$1.0B Valuation (~$150M ARR post-Beekeeper merger) | AI-powered digital workplace and intranet connecting enterprise workforces to critical tools, executive news, personalized content, and communities. | **£32.00 /user/year** (~$3.40 /user/month equivalent via UK G-Cloud base intranet framework; volume tiers require 2+1 year commitment). | **No self-service free trial or free tier**; custom guided Proof of Concept (PoC) and staging environment provided via enterprise sales. |
+| **[Simpplr](https://www.simpplr.com/)** | ~$500M+ Implied Valuation (~$50M–$90M ARR) | Modern AI-native employee experience platform delivering personalized intranet content, auto-governance, internal comms, and employee sentiment analytics. | **£4.00 /user/month** (~$5.20 /user/month equivalent via public sector G-Cloud baseline disclosures; custom quote for enterprise). | **14-day trial** available upon request via sales/solutions team; structured pilot programs available for prospective enterprise clients. |
+| **[Interact Intranet](https://www.interactsoftware.com/)** | ~$100M–$200M Implied Valuation (~$30M–$45M ARR) | Enterprise-grade intranet software engineered for internal communications, organizational knowledge management, and employee pulse surveys. | **£7.00 /user/month** (~$9.10 /user/month equivalent based on G-Cloud procurement rate card; minimum 12-month contract). | **No standard self-service free trial or free tier**; custom scoped sandbox and guided demonstration arranged via sales team. |
+| **[Jostle](https://www.jostle.me/)** | ~$30M–$50M Implied Valuation (~$6M–$10M ARR) | People-centric intranet platform built to boost employee engagement, cultural alignment, peer recognition, and cross-departmental coordination. | **$2.77 /user/month** (Bronze plan, billed annually; per-user pricing scales downward with organizational size). | **30-day free trial** with access to full Platinum enterprise features for up to 15 users; no permanent free tier. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+*Sorted in descending order by GitHub stargazer count.*
+
+| Project 🚀 | Star Badge ⭐ | Tech Stack 🛠️ | Description 💡 |
+|:---|:---:|:---:|:---|
+| **[Discourse](https://github.com/discourse/discourse)** | [![Stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers) | Ruby / Ember.js / PostgreSQL | **Customizable, modern community and discussion platform powering 22,000+ organizations.** Features asynchronous topics, real-time chat, AI summaries, multilingual translation, SSO, and rich role permissions for internal knowledge bases and corporate communities. |
+| **[HumHub](https://github.com/humhub/humhub)** | [![Stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers) | PHP (Yii2) / MariaDB | **The flagship open-source enterprise social network.** Features a flexible AGPLv3 Community Edition with a Facebook-style stream, user spaces, document management, wiki, calendar, and a rich ecosystem of modular add-ons. |
+| **[Elgg](https://github.com/Elgg/Elgg)** | [![Stars](https://img.shields.io/github/stars/Elgg/Elgg?style=social&color=white)](https://github.com/Elgg/Elgg/stargazers) | PHP / MySQL | **Award-winning open-source social networking engine.** Provides a modular foundation for building customized internal networks, employee hubs, or university intranets with 1,000+ community plugins and fine-grained access control. |
+| **[Open Source Social Network (OSSN)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)** | [![Stars](https://img.shields.io/github/stars/opensource-socialnetwork/opensource-socialnetwork?style=social&color=white)](https://github.com/opensource-socialnetwork/opensource-socialnetwork/stargazers) | PHP / Ajax / MySQL | **Rapid and lightweight self-hosted social networking software.** Easy to deploy for internal company groups, friend feeds, real-time messaging, employee media sharing, and member collaboration with complete privacy. |
+| **[Twake Workplace](https://github.com/linagora/twake-workplace)** | [![Stars](https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white)](https://github.com/linagora/twake-workplace/stargazers) | TypeScript / React / Node.js | **Open-source digital workplace and social collaboration environment.** Provides sovereign hosting with team channels, corporate drive workspaces, enterprise document sharing, audio/video conferencing, and calendar events. |
+| **[eXo Platform](https://github.com/exoplatform/platform)** | [![Stars](https://img.shields.io/github/stars/exoplatform/platform?style=social&color=white)](https://github.com/exoplatform/platform/stargazers) | Java / Vue.js / Matrix | **Comprehensive digital workplace and sovereign alternative to proprietary suites.** Offers document repositories, intelligent enterprise search, Matrix-powered real-time chat, social activity streams, and on-premise governance. |
+| **[Simoona](https://github.com/VismaLietuva/simoona)** | [![Stars](https://img.shields.io/github/stars/VismaLietuva/simoona?style=social&color=white)](https://github.com/VismaLietuva/simoona/stargazers) | C# / .NET / SQL Server | **Intuitive social intranet engine designed for internal corporate communication.** Built specifically to foster employee recognition, peer acknowledgment, cultural empowerment, and internal company news distribution. |
+| **[Uintra](https://github.com/Uintra/Uintra)** | [![Stars](https://img.shields.io/github/stars/Uintra/Uintra?style=social&color=white)](https://github.com/Uintra/Uintra/stargazers) | C# / Umbraco CMS (.NET) | **Flexible intranet and social employee platform built on Umbraco CMS.** Enables companies to construct bespoke digital workplaces with bulletin boards, social activity feeds, event calendars, and staff directories. |
+| **[Open Intranet](https://github.com/droptica/openintranet)** | [![Stars](https://img.shields.io/github/stars/droptica/openintranet?style=social&color=white)](https://github.com/droptica/openintranet/stargazers) | PHP / Drupal 11 | **Turnkey workplace hub and social intranet distribution built on Drupal.** Includes staff directories, knowledge base books, document management, kudos/social reactions, and AI search capabilities with zero per-user licensing fees. |
+| **[Favilla](https://github.com/Myth70/favilla)** | [![Stars](https://img.shields.io/github/stars/Myth70/favilla?style=social&color=white)](https://github.com/Myth70/favilla/stargazers) | PHP 8.2+ / Bootstrap + HTMX | **Lightweight self-hosted workspace and company intranet.** Delivered via one-command Docker setup with OIDC SSO, 20 modular tools, team directories, document sharing, and internal announcements. |
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Enterprise-Social-Network-Intranet&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Enterprise-Social-Network-Intranet&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions make the open-source and software ecosystem thrive! To propose a new SaaS platform, update pricing details, or add a self-hosted open-source intranet:
+
+1. 🍴 **Fork the repository** to your personal GitHub account.
+2. 🌿 **Create a feature branch**:
+   ```bash
+   git checkout -b feature/add-new-intranet
+   ```
+3. ✏️ **Make your changes** in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Enterprise-Social-Network-Intranet/README.md) following the existing tabular schema.
+   - For SaaS products: Provide official transparent pricing and specific free trial/plan limits.
+   - For open-source tools: Ensure the repo is active and include the social star badge linking to `/stargazers`.
+4. 💾 **Commit your changes**:
+   ```bash
+   git commit -m "Add [Tool Name]: 1-sentence summary"
+   ```
+5. 🚀 **Push to your branch and open a Pull Request** with a concise description of the addition or update.
+
+---
+
+## 💖 Support
+
+If you found this curated directory helpful for evaluating enterprise social networks or discovering self-hosted intranet alternatives, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others find it on GitHub.
+- 🍴 **Fork and share** with colleagues, IT administrators, and internal comms managers.
+- ☕ **Buy me a coffee / Sponsor**: If this project saved your team time or research costs, you can sponsor further updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for your encouragement and support! 🙌
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for educational, architectural, and evaluation purposes; inclusion does not imply official endorsement or commercial sponsorship.
+- Enterprise social networks and intranets store sensitive internal employee conversations, organizational data, and directory credentials. Always review security compliances (e.g., SOC 2, ISO 27001, GDPR), data encryption standards, and identity provider (IdP/SSO) integrations prior to production rollout.
+- Pricing metrics, trial durations, and open-source licensing terms are subject to change by vendor maintainers; verify details on official vendor websites before purchasing or deploying.
+
+---
+
+<p align="center">
+  <b>Built for internal communications leaders, IT administrators, and digital workplace architects worldwide. 🚀</b>
+</p>
