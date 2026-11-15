@@ -15,10 +15,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynaiics](#sector-overview--market-dynaiics)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynaiics
+
+The Enterprise Social Software and Social Intranet market is estimated at approximately **$25B–$30B** (projected to exceed $70B–$100B by the early 2030s at a ~17% CAGR). The sector is **moderately fragmented**: while hyperscale platform ecosystems (notably Microsoft 365) command extensive baseline enterprise penetration, it is not a pure "winner-take-all" market as high enterprise demand for specialized frontline communications, out-of-the-box employee experience (EX), data sovereignty (GDPR/EU on-premise), and modular custom workflows sustains strong market share for best-of-breed SaaS players and self-hosted open-source platforms.
 
 ## SaaS/Hosted Platforms
 
