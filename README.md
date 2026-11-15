@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Social-Network-Intranet
 
-# Top Enterprise Social Network & Intranet Ecosystem
+## Top Enterprise Social Network & Intranet Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Employee Communities, Internal Communications & Self-Hosted Social Intranets*  
